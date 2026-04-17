@@ -1,3 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-"C:\Users\PC\Desktop\Lab2\Content\Horror_Template\Static\Demo\Demo_Static_Meshes\Boolean_9E559E8F.uasset" filter=lfs diff=lfs merge=lfs -text 
